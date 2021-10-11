@@ -1,5 +1,5 @@
 # Foue Digit Up Down Rest Counter
-In this Project embedded c with interrupt in order to code a four digit seven segment.\
+This is a Countrer that is built using Timers and Interrupts in embedded c.\
 initially the display value should start with 0000. Pressing the left button will count down by one, pressing the right button will count up by one, and Pressing the center button should set the count to 0.\
 
 * Displaying Numbers
